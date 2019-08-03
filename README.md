@@ -1,6 +1,6 @@
 # Editorial-Layout
 
-This website was made using FlexBox and CSS Grid. 
+A mobile-friendly layout I've created with the help of CSS Grid and Flexbox.
 
 Inspiration from a [dribble shot](https://dribbble.com/shots/3257264-Editorial-Layout-2) made by [Dennys Hess](https://dribbble.com/dennyshess)
 
